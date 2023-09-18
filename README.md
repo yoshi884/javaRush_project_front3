@@ -1,4 +1,4 @@
-# Ivan_Didenko_JavaRush_Project_3_2
+# Ivan_Didenko_JavaRush_Project_3
 <!DOCTYPE html>
 <html lang="UTF-8">
 <head>
